@@ -1,0 +1,73 @@
+.header {
+  display: flex;
+  flex: 1;
+  margin-left: 25pt;
+  margin-right: 25pt;
+  padding-left: 25pt;
+  padding-right: 25pt;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 0px;
+  align-items: center;
+  font-family: "Courier New", monospace;
+  /* background-color: black; */
+
+  color: white;
+  height: 10vh;
+}
+
+.title {
+  margin: 10;
+  padding: 1rem 0.5rem;
+  color: white;
+  font-size: 24pt;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  text-decoration: none;
+}
+.title:hover,
+.title:focus,
+.title:active {
+  color: #8eb3fd;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.tabs {
+  font-size: 16pt;
+  margin: 10;
+  padding: 1rem 0.5rem;
+  color: white;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  text-decoration: none;
+}
+.tabs:hover,
+.tabs:focus,
+.tabs:active {
+  color: #8eb3fd;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.ico {
+  margin: 10;
+  font-size: 16pt;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: black;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.ico:hover,
+.ico:focus,
+.ico:active {
+  color: rgb(149, 209, 255);
+}
+
+.logo {
+  margin: 20;
+  font-size: 16pt;
+  width: 6vh;
+  border-radius: 10pt;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: white;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}

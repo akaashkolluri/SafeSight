@@ -1,0 +1,31 @@
+.footer {
+  margin-left: 25pt;
+  margin-right: 25pt;
+
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid #eaeaea;
+  background-color: #00000000;
+  align-items: center;
+  text-align: center;
+  font-size: 25pt;
+  font-family: "Courier New", monospace;
+}
+
+.footer p {
+  font-size: 12pt;
+  color: white;
+  font-family: "Courier New", monospace;
+}
+
+.footer a {
+  font-size: 16pt;
+  color: white;
+  font-family: "Courier New", monospace;
+}
+
+.footer a:hover,
+.footer a:focus,
+.footer a:active {
+  text-decoration: underline;
+}
