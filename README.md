@@ -1,6 +1,6 @@
 # VisioComp
 
-##Inspiration
+## Inspiration
 
 Annually, 2.78 million workers die due to work-related accidents and diseases, with 374 million more facing non-fatal incidents. That's 7,500 daily deaths, surpassing those from road accidents, war, and HIV/AIDS combined. [(Source here)] (https://unglobalcompact.org/take-action/safety-andhealth)
 
